@@ -10,3 +10,6 @@ h1{
 *{
     margin: auto;
 }
+#scream{
+    display: none;
+}
